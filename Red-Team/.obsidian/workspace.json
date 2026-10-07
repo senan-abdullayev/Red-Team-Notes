@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "3c8296589c0c2833",
+    "type": "split",
+    "children": [
+      {
+        "id": "41eb73203c208d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c49c2a2e6edcd44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Active Directory/Credentialed Enumeration/From Windows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "From Windows"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "018e3a9644c26d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db491143f19f9ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7433d853dc60d156",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ed5ae4deaa20ec42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e24ccb33d7170c26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "a420aa03460ec002",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b2bc6b5041ba0d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f0371ae6b4f0102",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPTS-Notes/Windows Privesc/Credential Hunting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Credential Hunting"
+            }
+          },
+          {
+            "id": "4543cfc1405f78be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "66696326cc884ed2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c65c06e30fcbb730",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "69a44e7a248106f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7433d853dc60d156",
+  "lastOpenFiles": [
+    "Notes/Windows Privesc/Kernel exploits/Checking for Spooler Service.md",
+    "Notes/Windows Privesc/Kernel exploits/Checking Permissions on the SAM File.md",
+    "Notes/Windows Privesc/Enumeration/System Information.md",
+    "Notes/Windows Privesc/Enumeration/Network Enumeration.md",
+    "Notes/Windows Privesc/Scheduled Tasks.md",
+    "Notes/Windows Privesc/Always Install Elevated.md",
+    "Notes/Windows Privesc/Enumerating Installed Programs.md",
+    "Notes/Windows Privesc/Credential Hunting.md",
+    "Notes/Windows Privesc/Interacting with Users.md",
+    "Notes/Windows Privesc/Pillaging.md",
+    "Notes/Windows Privesc/Enumeration/Pipes.md",
+    "Notes/Windows Privesc/Services/Unquoted Service Path.md",
+    "Notes/Active Directory/Credentialed Enumeration/From Windows.md",
+    "Notes/Linux Privesc/Credential Hunting.md",
+    "Notes/Tools/Ligolo-ng.md",
+    "Notes/Tools/Chisel.md",
+    "Notes/Linux Privesc/Basic Enumeration.md",
+    "Notes/Linux Privesc/Escape Restricted Shell.md",
+    "Notes/Linux Privesc/Library Hijacking (Python).md",
+    "Notes/Linux Privesc/Network Enumeration.md",
+    "Notes/Pivoting/Ping Sweep.md",
+    "Notes/Attacking Common Services/MSSQL/Silver ticket attack.md",
+    "Notes/Attacking Common Services/MSSQL/Communicate with Other Databases with MSSQL.md",
+    "Notes/Windows Evasion/Information Gathering.md",
+    "Notes/Windows Evasion",
+    "Notes/Tools/Active Directory/Bloodhound.md",
+    "Notes/Windows Privesc/UAC Bypass.md",
+    "Untitled",
+    "CPTS-Notes/Windows Privesc/Kernel exploits/Checking for Spooler Service",
+    "Notes/Windows Privesc/Kernel exploits",
+    "Notes/Windows Privesc/Enumeration",
+    "Notes/Windows Privesc/Services",
+    "Notes/Windows Privesc/Privilege",
+    "Notes/Windows Privesc",
+    "CPTS-Notes/Linux Privesc/Untitled",
+    "Notes/Linux Privesc",
+    "Pasted image 20260601165944.png",
+    "Pasted image 20260513205904.png",
+    "Pasted image 20260513205901.png",
+    "Pasted image 20260512122905.png",
+    "Pasted image 20260512122832.png"
+  ]
+}
