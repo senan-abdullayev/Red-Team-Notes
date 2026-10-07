@@ -112,8 +112,8 @@ Released under the [MIT License](LICENSE). Use them, fork them, learn from them.
 
 <div align="center">
 
-**Maintained by [Landau](https://github.com/senan-abdullayev)**
-🔗 [GitHub](https://github.com/senan-abdullayev) · [LinkedIn](https://linkedin.com/in/senan-abdullayev-938877385)
+**Maintained by [Snannn](https://github.com/senan-abdullayev)**
+🔗 [GitHub](https://github.com/senan-abdullayev) · [LinkedIn](https://linkedin.com/in/senan-abdullayev)
 
 *Happy hacking — stay in scope.* 🎯
 
